@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+logs/
+outputs/
+*.partial
+ckpt/*
+!ckpt/README.md
+!ckpt/README.zh.md
+database/index/
+database/metadata/
+database/*.log
+results/**/*.jsonl

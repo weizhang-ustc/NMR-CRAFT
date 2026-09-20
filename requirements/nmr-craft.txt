@@ -1,0 +1,8 @@
+numpy==1.26.4
+requests==2.32.3
+PyYAML==6.0.2
+lmdb==1.5.1
+rdkit==2025.9.3
+tqdm==4.67.1
+Flask==3.1.0
+faiss-cpu==1.7.4

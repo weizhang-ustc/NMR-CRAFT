@@ -1,0 +1,23 @@
+{
+  "reference": "data/raw/nmrspec_test.pkl",
+  "reference_sha256": "7ea63097b2bc556313a2f9f0882f5f99d7cf40b6fdbbbfec7b689b0b2347f18e",
+  "mode": "exclude_molecule",
+  "metadata": "database/metadata/PubChem_merged_id.lmdb",
+  "metadata_size_bytes": 400000000000,
+  "database_entries": 105764875,
+  "scanned_entries": 105764875,
+  "complete": true,
+  "test_molecules": 21298,
+  "test_scaffolds": 0,
+  "excluded_database_molecules": 7068,
+  "excluded_database_scaffolds": 0,
+  "missing_mol": 0,
+  "invalid_mol": 0,
+  "scaffold_fallback": 0,
+  "bitmap_bytes_each": 13220610,
+  "molecule_identity": "RDKit canonical isomeric SMILES (stereochemistry-sensitive)",
+  "scaffold_method": "rdkit.Chem.Scaffolds.MurckoScaffold.MurckoScaffoldSmiles",
+  "scaffold_include_chirality": false,
+  "rdkit_version": "2025.09.6",
+  "elapsed_seconds": 6242.918817281723
+}

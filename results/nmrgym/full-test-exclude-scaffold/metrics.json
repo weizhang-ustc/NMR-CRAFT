@@ -1,0 +1,30 @@
+{
+  "system": "NMR-CRAFT",
+  "input": "results/nmrgym/full-test-exclude-scaffold/results.jsonl",
+  "view": "workflow",
+  "input_format": "workflow",
+  "samples": 27054,
+  "topk": {
+    "1": {
+      "sequence_accuracy": 0.08227988467509426,
+      "token_accuracy": 0.4481407693392955,
+      "morgan_tanimoto": 0.5531145277511829,
+      "torsion_tanimoto": 0.588896628202129,
+      "atom_pair_tanimoto": 0.68906351323857
+    },
+    "5": {
+      "sequence_accuracy": 0.1514378650107193,
+      "token_accuracy": 0.5463926753965274,
+      "morgan_tanimoto": 0.6030185411620829,
+      "torsion_tanimoto": 0.6443536172720956,
+      "atom_pair_tanimoto": 0.7315841122977532
+    },
+    "10": {
+      "sequence_accuracy": 0.17339395283507059,
+      "token_accuracy": 0.5791521373330215,
+      "morgan_tanimoto": 0.6182703176222745,
+      "torsion_tanimoto": 0.6613903315745928,
+      "atom_pair_tanimoto": 0.7447122647420947
+    }
+  }
+}

@@ -1,0 +1,8 @@
+server_url: "http://127.0.0.1:18080"
+lmdb_path: "../database/metadata/PubChem_merged_id.lmdb"
+index_paths:
+  HC: "../database/index/HC.index"
+mask_paths:
+  HC:
+    exclude_molecule: "../database/masks/nmrgym/exclude_molecule.npy"
+    exclude_scaffold: "../database/masks/nmrgym/exclude_scaffold.npy"
