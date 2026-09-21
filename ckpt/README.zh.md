@@ -8,4 +8,4 @@
 
 Checkpoint 地址：
 
-https://huggingface.co/Anonymouszzzz/NMR-LM
+[NMR-LM Hugging Face 页面](https://huggingface.co/Anonymouszzzz/NMR-LM)

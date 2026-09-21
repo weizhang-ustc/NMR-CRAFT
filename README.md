@@ -26,8 +26,8 @@ known molecular formulas:
 
 ## Hugging Face Artifacts
 
-    Model checkpoint: https://huggingface.co/Anonymouszzzz/NMR-LM
-    Workflow results: https://huggingface.co/datasets/Anonymouszzzz/NMR-CRAFT-results
+    Model checkpoint: [NMR-LM](https://huggingface.co/Anonymouszzzz/NMR-LM)
+    Workflow results: [NMR-CRAFT-results](https://huggingface.co/datasets/Anonymouszzzz/NMR-CRAFT-results)
 
 ## Environments
 

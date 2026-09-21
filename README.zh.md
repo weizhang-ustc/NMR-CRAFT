@@ -25,8 +25,8 @@
 
 ## Hugging Face 资源
 
-    模型 checkpoint：https://huggingface.co/Anonymouszzzz/NMR-LM
-    Workflow 结果：https://huggingface.co/datasets/Anonymouszzzz/NMR-CRAFT-results
+    模型 checkpoint：[NMR-LM](https://huggingface.co/Anonymouszzzz/NMR-LM)
+    Workflow 结果：[NMR-CRAFT-results](https://huggingface.co/datasets/Anonymouszzzz/NMR-CRAFT-results)
 
 ## 环境
 

@@ -9,4 +9,4 @@ This checkpoint was trained on the NMRGym training set.
 
 The checkpoint is available at:
 
-https://huggingface.co/Anonymouszzzz/NMR-LM
+[NMR-LM on Hugging Face](https://huggingface.co/Anonymouszzzz/NMR-LM)

@@ -14,7 +14,7 @@ Full NMRSpec test-set artifacts:
 
 The complete results dataset is available at:
 
-https://huggingface.co/datasets/Anonymouszzzz/NMR-CRAFT-results
+[NMR-CRAFT-results on Hugging Face](https://huggingface.co/datasets/Anonymouszzzz/NMR-CRAFT-results)
 
 results.jsonl follows the line-oriented schema produced by
 scripts/run-workflow.sh. It is approximately 1.2 GB and is therefore excluded
