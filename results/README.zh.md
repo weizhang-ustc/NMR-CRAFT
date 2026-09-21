@@ -12,6 +12,10 @@
     nmrspec/exclude-molecule/results.jsonl            21,298 条 workflow 输出
     nmrspec/exclude-molecule/metrics.json             Top-1/5/10 指标
 
+完整结果数据集地址：
+
+https://huggingface.co/datasets/Anonymouszzzz/NMR-CRAFT-results
+
 results.jsonl 与 scripts/run-workflow.sh 的逐行输出结构一致，但体积约 1.2 GB，
 因此被 Git 忽略。可独立重新评测：
 

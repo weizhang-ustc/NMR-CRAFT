@@ -12,6 +12,10 @@ Full NMRSpec test-set artifacts:
     nmrspec/exclude-molecule/results.jsonl            21,298 workflow outputs
     nmrspec/exclude-molecule/metrics.json             Top-1/5/10 metrics
 
+The complete results dataset is available at:
+
+https://huggingface.co/datasets/Anonymouszzzz/NMR-CRAFT-results
+
 results.jsonl follows the line-oriented schema produced by
 scripts/run-workflow.sh. It is approximately 1.2 GB and is therefore excluded
 from Git. Re-evaluate it independently with:

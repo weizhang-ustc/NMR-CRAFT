@@ -24,6 +24,11 @@ known molecular formulas:
     requirements/    Two minimal environments
     results/         Full NMRGym workflow results and metrics
 
+## Hugging Face Artifacts
+
+    Model checkpoint: https://huggingface.co/Anonymouszzzz/NMR-LM
+    Workflow results: https://huggingface.co/datasets/Anonymouszzzz/NMR-CRAFT-results
+
 ## Environments
 
 Workflow, database, preprocessing, and evaluation:

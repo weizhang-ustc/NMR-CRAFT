@@ -23,6 +23,11 @@
     requirements/    两套最小环境
     results/         完整 NMRGym workflow 结果与指标
 
+## Hugging Face 资源
+
+    模型 checkpoint：https://huggingface.co/Anonymouszzzz/NMR-LM
+    Workflow 结果：https://huggingface.co/datasets/Anonymouszzzz/NMR-CRAFT-results
+
 ## 环境
 
 Workflow、数据库、数据处理和评测：
