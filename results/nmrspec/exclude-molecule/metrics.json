@@ -1,0 +1,30 @@
+{
+  "evaluated_samples": 21298,
+  "likelihood_weight": null,
+  "reference_source": "embedded",
+  "workflow": {
+    "path": "results/nmrspec/workflow_nmrspec_exclude_molecule.jsonl",
+    "candidate_key": null,
+    "view": "top10",
+    "samples": 21298,
+    "mask_ok": 0,
+    "mean_ranked_candidates": 9.709409334209784,
+    "topk": {
+      "1": {
+        "sequence_accuracy": 0.5851253638839328,
+        "token_accuracy": 0.8356752905117845,
+        "morgan_tanimoto": 0.8627964498735828
+      },
+      "5": {
+        "sequence_accuracy": 0.7765987416658842,
+        "token_accuracy": 0.9070464384395515,
+        "morgan_tanimoto": 0.9098240329091714
+      },
+      "10": {
+        "sequence_accuracy": 0.7966945253075406,
+        "token_accuracy": 0.9175940384413054,
+        "morgan_tanimoto": 0.9169561276882966
+      }
+    }
+  }
+}
